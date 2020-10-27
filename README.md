@@ -2,5 +2,5 @@
 <p>A young Frontend developer who wants to share his knowledge. Always looking to evolve and improve in all aspects.</p>
 
 ![Rychillie's](https://github-readme-stats.vercel.app/api?username=rychillie&show_icons=true&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rychillie&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rychillie&langs_count=3&theme=onedark)
 
